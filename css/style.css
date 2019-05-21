@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+}
+
+.all{
+    margin: 0 auto;
+}
+
+.button{
+    margin: 10px 0px 10px 46.75%;
+}
+
+.tableDiv{
+    width: max-content;
+    margin: 0 auto;
+}
+
+.table{
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.table tr, .table td{
+    text-align: center;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+.live{
+    background-color: black;
+}
